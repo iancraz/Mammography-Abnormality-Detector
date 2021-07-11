@@ -1,6 +1,6 @@
 # Mammography-Abnormality-Detector
 
-Deep Neural Network to detect abnormalities on Mammographies made in hospitals. Used [MIAS Mammography Dataset](https://www.kaggle.com/kmader/mias-mammography) and reached 96% Accuracy on Test data. The following sections will explain how the model works.
+Deep Neural Network to detect abnormalities on Mammographies made in hospitals. Used [MIAS Mammography Dataset](http://peipa.essex.ac.uk/info/mias.html) and reached 96% Accuracy on Test data. The following sections will explain how the model works.
 
 
 # Table of contents
