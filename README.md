@@ -74,7 +74,7 @@ We couldnt augment more data for the restriction in Kaggle, however if this rest
 
 The model implemented was as shown below:
 
-<img src="https://github.com/iancraz/Mammography-Abnormality-Detector/blob/main/docs/model_1.png?raw=true" width=1024 align=center>
+<img src="https://github.com/iancraz/Mammography-Abnormality-Detector/blob/main/docs/model_1.png?raw=true" width=500 align=center>
 
 
 The code to implemet this model is:
