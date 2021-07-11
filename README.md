@@ -155,7 +155,7 @@ Finally let's see one example of the test data individually:
 
 <img src="https://github.com/iancraz/Mammography-Abnormality-Detector/blob/main/docs/test.png?raw=true" width=500 align=center>
 
-The Ground Truth is that this image **does not have abnoralities**
+The Ground Truth is that this image **does not have abnormalities**
 
 The result of out CNN was: **No Abnormality** with a 1.7e-7 probability of having an abnormality.
 
